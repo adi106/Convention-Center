@@ -60,5 +60,11 @@
 }
 
 .toast {
-    margin-left: 1000px;
+    border-radius: 0 !important;
+    border-left: 10px solid #3F87F5 !important;
+    border-right: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+    position: absolute;
+    right: 0;
 }

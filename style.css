@@ -1,0 +1,21 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* ---------------------- navbar -------------------------- */
+.navbar-brand {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.nav-link {
+    color: #3E3E3E !important;
+}
+
+
+/* ---------------------- carousel -------------------------- */
+.carousel-caption.d-none.d-md-block h2 {
+    font-size: 48px;
+    font-weight: 600;
+}
